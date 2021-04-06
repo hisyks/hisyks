@@ -1,0 +1,4 @@
+print("leanes is my name is leanes is my game")
+og = input("leanes?")
+while og == "yes":
+  print("leanes")
